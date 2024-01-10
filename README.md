@@ -8,7 +8,8 @@ To illustrate the concept, let's consider a simple example where we have a pipel
 1. **Pipe:** Manages the flow of data between filters.
 
 2. **Uppercase Filter:** Processes the data by converting it to uppercase.
-![Captura de pantalla 2024-01-10 a la(s) 1 58 42 p  m](https://github.com/juanhcode/Pipes-and-Filters-Example/assets/64670953/d2c1001f-efa5-4cd8-8068-7c85b77729b1)
+![Captura de pantalla 2024-01-10 a la(s) 2 07 39 p  m](https://github.com/juanhcode/Pipes-and-Filters-Example/assets/64670953/ca8c6ebc-9653-4e17-ac57-1a4809ea5d56)
+
 
 ## Learn More
 
